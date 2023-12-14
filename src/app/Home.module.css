@@ -1,0 +1,8 @@
+/* Home.module.css */
+
+.logoText {
+  font-size: 100px;
+  background: linear-gradient(to right, #30cfd0 0%, #330867 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
